@@ -1,0 +1,9 @@
+{
+  "name": "guia-stars",
+  "scripts": {
+    "start": "npx serve . -p $PORT"
+  },
+  "dependencies": {
+    "serve": "^14.2.0"
+  }
+}
